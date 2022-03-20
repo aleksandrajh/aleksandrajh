@@ -34,7 +34,6 @@ const aleksandra = {
 <img src="assets/images/volleyball-navy.png" alt="Volleyball" width="45" height="45" style="padding-right:10px;"/>
 <img src="assets/images/snowboard-navy.png" alt="Snowboard" width="45" height="45" style="padding-right:10px;"/>
 <img src="assets/images/sport-navy.png" alt="Fitness" width="45" height="45" style="padding-right:10px;"/>
-<img src="assets/images/sport-navy.png" alt="Fitness" width="45" height="45" style="padding-right:10px;"/>
 <img src="assets/images/piano-navy.png" alt="Piano" width="45" height="45" style="padding-right:10px;"/>
 <img src="assets/images/travel-navy.png" alt="Travel" width="45" height="45" style="padding-right:10px;"/>
 </p>
