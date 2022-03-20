@@ -21,7 +21,7 @@ const aleksandra = {
         tools: ["Git", "GitHub", "Heroku", "VSCode"]
     },
     learning: ["Django"],
-    currentFocus: "Portfolio Project 4 as part of Diploma in Full Stack Developement
+    currentFocus: "Portfolio Project 4 as part of Diploma in Full Stack Software Development
                    with Code Institute",
     status: ["Open to work"]
 };
