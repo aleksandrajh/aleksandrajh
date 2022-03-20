@@ -26,30 +26,30 @@ const aleksandra = {
 };
 
 ```
-<br>
-<h2 style="font: Poppins; font-style: bold; color: #288AE7; clear: both;">Hobbies</h2>
-<img src="assets/images/volleyball-turquoise.png" alt="Volleyball" width="40" height="40" style="padding-right:10px; padding-bottom:10px" />
-<img src="assets/images/snowboard-turquoise.png" alt="Snowboard" width="40" height="40" style="padding-right:10px; padding-bottom:10px" />
-<img src="assets/images/sport-turquoise.png" alt="Fitness" width="40" height="40" style="padding-right:10px; padding-bottom:10px" />
-<img src="assets/images/piano-turquoise.png" alt="Piano" width="40" height="40" style="padding-right:10px; padding-bottom:10px" />
-<img src="assets/images/travel-turquoise.png" alt="Travel" width="40" height="40" style="padding-right:10px; padding-bottom:10px" />
 
-<br>
+## Hobbies
+<p float="left">
+<img src="assets/images/volleyball-turquoise.png" alt="Volleyball" width="45" height="45" style="padding-right:10px;"/>
+<img src="assets/images/snowboard-turquoise.png" alt="Snowboard" width="45" height="45" style="padding-right:10px;"/>
+<img src="assets/images/sport-turquoise.png" alt="Fitness" width="45" height="45" style="padding-right:10px;"//>
+<img src="assets/images/piano-turquoise.png" alt="Piano" width="45" height="45" style="padding-right:10px;"/>
+<img src="assets/images/travel-turquoise.png" alt="Travel" width="45" height="45" style="padding-right:10px;"/>
+</p>
 
-<h2 style="font: Poppins; font-style: bold; color: #288AE7;">Get in touch</h2>
-<a href="https://www.linkedin.com/aleksandrahaniok"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn profile" width="40" height="40" style="padding-right:10px;" /></a>
-<a href="mailto:aleksandracoding@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="40" height="40" style="padding-right:10px;"/></a>
+## Get in touch
+<a href="https://www.linkedin.com/aleksandrahaniok"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn profile" width="45" height="45" style="padding-right:10px;" /></a>
+<a href="mailto:aleksandracoding@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="45" height="45" style="padding-right:10px;"/></a>
 
-<br>
 
-<h2 style="font: Poppins; font-style: bold; color: #288AE7;">Here's some humor for you...<img src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'></h2>
+## Here's some humor for you...<img src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'></h2>
+
 
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
-<br>
 
-<p  align="center">
+
+<p align="center">
 <img  align="center" src="assets/images/woman-sitting.svg" width="140" height="160" style="object-fit: cover; object-position: -20px 10px;"></p>
 <hr>
-<p  align="center">
+<p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=aleksandracodes.aleksandracodes" alt="visitor badge"/>
 </p>
