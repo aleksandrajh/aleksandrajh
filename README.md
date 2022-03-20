@@ -26,14 +26,16 @@ const aleksandra = {
 };
 
 ```
+<br>
 
 ## Hobbies
 <p float="left">
-<img src="assets/images/volleyball-turquoise.png" alt="Volleyball" width="45" height="45" style="padding-right:10px;"/>
-<img src="assets/images/snowboard-turquoise.png" alt="Snowboard" width="45" height="45" style="padding-right:10px;"/>
-<img src="assets/images/sport-turquoise.png" alt="Fitness" width="45" height="45" style="padding-right:10px;"//>
-<img src="assets/images/piano-turquoise.png" alt="Piano" width="45" height="45" style="padding-right:10px;"/>
-<img src="assets/images/travel-turquoise.png" alt="Travel" width="45" height="45" style="padding-right:10px;"/>
+ 
+<img src="assets/images/volleyball-navy.png" alt="Volleyball" width="45" height="45" style="padding-right:10px;"/>
+<img src="assets/images/snowboard-navy.png" alt="Snowboard" width="45" height="45" style="padding-right:10px;"/>
+<img src="assets/images/sport-navy.png" alt="Fitness" width="45" height="45" style="padding-right:10px;"//>
+<img src="assets/images/piano-navy.png" alt="Piano" width="45" height="45" style="padding-right:10px;"/>
+<img src="assets/images/travel-navy.png" alt="Travel" width="45" height="45" style="padding-right:10px;"/>
 </p>
 
 ## Get in touch
@@ -48,7 +50,8 @@ const aleksandra = {
 
 
 <p align="center">
-<img  align="center" src="assets/images/woman-sitting.svg" width="140" height="160" style="object-fit: cover; object-position: -20px 10px;"></p>
+<img align="center" src="assets/images/woman-sitting.svg" width="260" height="230">
+</p>
 <hr>
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=aleksandracodes.aleksandracodes" alt="visitor badge"/>
