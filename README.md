@@ -6,7 +6,7 @@ Hello World! I'm Aleksandra👋
   </a>
 </h1>
 
-<img align="left" src="assets/images/woman-handup.svg" width="130">
+<img align="left" src="assets/images/woman-handup.svg" width="120">
 
 ```javascript
 const aleksandra = {
@@ -21,7 +21,8 @@ const aleksandra = {
         tools: ["Git", "GitHub", "Heroku", "VSCode"]
     },
     learning: ["Django"],
-    currentFocus: "Portfolio project 4 as part of Diploma in Full Stack Developement with Code Institute",
+    currentFocus: "Portfolio Project 4 as part of Diploma in Full Stack Developement
+                   with Code Institute",
     status: ["Open to work"]
 };
 
