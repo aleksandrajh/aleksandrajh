@@ -42,7 +42,7 @@ const aleksandra = {
 <a href="https://www.linkedin.com/in/aleksandrahaniok/"><img src="assets/images/linkedin-navy.png" alt="LinkedIn profile" width="45" height="45" style="padding-right:10px;" /></a>
 <a href="mailto:aleksandracoding@gmail.com"> <img src="assets/images/email-navy.png" alt="Email" width="45" height="45" style="padding-right:10px;"/></a>
 
-## Here's some humor for you...<img src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'></h2>
+## Here's some humor for you...<img src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' height='25px' width ='25px'></h2>
 
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
 
