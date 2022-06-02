@@ -22,7 +22,7 @@ const aleksandra = {
     },
     learning: ["React"],
     currentFocus: "Portfolio Project 5 as part of Diploma in Full Stack Software Development
-                   with Code Institute"
+                   with Code Institute - specialization: Advanced Front End"
 };
 
 ```
