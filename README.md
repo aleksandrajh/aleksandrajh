@@ -20,7 +20,7 @@ const aleksandra = {
         databases: ["MySql", "PostgreSQL"],
         tools: ["Git", "GitHub", "Heroku", "VSCode"]
     },
-    learning: ["React"],
+    learning: ["React and Django REST Framework"],
     currentFocus: "Portfolio Project 5 as part of Diploma in Full Stack Software Development
                    with Code Institute - specialization: Advanced Front End"
 };
