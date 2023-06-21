@@ -1,5 +1,5 @@
 <h1 align="center" style="font: Poppins; font-style: bold; font-size: 28px; color: #288AE7;">
-Hello World! I'm Aleksandra👋 
+Hello! I'm Aleksandra👋 
 <br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=6000&color=288AE7&center=true&vCenter=true&lines=Welcome+to+my+GitHub+page!">
@@ -15,12 +15,12 @@ const aleksandra = {
     languages: ["English", "Polish", "Spanish"],
     programmingLanguages: ["Javascript", "Python"],
     skills: {
-        frontEnd: ["HTML5", "CSS3", "JavaScript", "jQuery", "ReactJS", "Bootstrap + React Bootstrap", "Materialize"],
+        frontEnd: ["HTML5", "CSS3", "JavaScript", "jQuery", "React", "Bootstrap + React Bootstrap", "Materialize"],
         backEnd: ["Python", "Django", "Django REST", "Node.js"],
         databases: ["MySql", "PostgreSQL"],
         tools: ["Git", "GitHub", "Heroku", "VSCode"]
     },
-    currentFocus: ["ReactJS"]
+    currentFocus: ["React", "Next.js"]
 };
 
 ```
@@ -44,7 +44,6 @@ const aleksandra = {
 
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
 
-
 <p align="center">
 <img src="assets/images/woman-sitting.svg" width="200" height="230" style="object-position: -20px 10px;">
 </p>
@@ -52,3 +51,5 @@ const aleksandra = {
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=aleksandracodes.aleksandracodes" alt="visitor badge"/>
 </p>
+
+![Snake animation](https://github.com/aleksandracodes/aleksandracodes/blob/output/github-contribution-grid-snake.svg)
