@@ -51,5 +51,3 @@ const aleksandra = {
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=aleksandracodes.aleksandracodes" alt="visitor badge"/>
 </p>
-
-![Snake animation](https://github.com/aleksandracodes/aleksandracodes/blob/output/github-contribution-grid-snake.svg)
