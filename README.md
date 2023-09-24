@@ -14,11 +14,11 @@ const aleksandra = {
     role: ["Junior Full Stack Software Developer"],
     languages: ["English", "Polish", "Spanish"],
     programmingLanguages: ["Javascript", "Python"],
-    skills: {
-        frontEnd: ["HTML5", "CSS3", "JavaScript", "jQuery", "React", "Bootstrap + React Bootstrap", "Materialize"],
-        backEnd: ["Python", "Django", "Django REST", "Node.js"],
-        databases: ["MySql", "PostgreSQL"],
-        tools: ["Git", "GitHub", "Heroku", "VSCode"]
+    technicalSkills: {
+        frontEnd: ["HTML5", "CSS3", "JavaScript", "React", "Next.js", "jQuery", "Bootstrap + React Bootstrap"],
+        backEnd: ["Node.js", "REST APIs", "Python", "Django", "Django REST"],
+        databases: ["MySQL", "MongoDB"],
+        tools: ["Git", "GitHub", "Heroku", "VSCode", "Jira", "and more..."]
     },
     currentFocus: ["React", "Next.js"]
 };
