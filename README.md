@@ -11,7 +11,7 @@ Hello! I'm Aleksandra👋
 ```javascript
 const aleksandra = {
     currentLocation: ["Manchester, UK"],
-    role: ["Junior Full Stack Software Developer"],
+    role: ["Software Developer"],
     languages: ["English", "Polish", "Spanish"],
     programmingLanguages: ["Javascript", "Python"],
     technicalSkills: {
