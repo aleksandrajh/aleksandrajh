@@ -20,7 +20,7 @@ const aleksandra = {
         databases: ["MySQL", "MongoDB"],
         tools: ["Git", "GitHub", "Heroku", "VSCode", "Jira", "and more..."]
     },
-    currentFocus: ["TypeScript", "React"]
+    currentFocus: ["TypeScript", "NestJS"]
 };
 
 ```
