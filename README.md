@@ -10,17 +10,17 @@ Hello! I'm Aleksandra👋
 
 ```javascript
 const aleksandra = {
-    currentLocation: ["Manchester, UK"],
+    currentLocation: ["Stockport, UK"],
     role: ["Software Engineer"],
     languages: ["English", "Polish", "Spanish"],
     programmingLanguages: ["Javascript", "Python"],
     technicalSkills: {
         frontEnd: ["HTML5", "CSS3", "JavaScript", "React", "Next.js", "jQuery", "Bootstrap + React Bootstrap"],
         backEnd: ["Node.js", "REST APIs", "Python", "Django", "Django REST"],
-        databases: ["MySQL", "MongoDB"],
+        databases: ["PostgreSQL"],
         tools: ["Git", "GitHub", "Heroku", "VSCode", "Jira", "and more..."]
     },
-    currentFocus: ["TypeScript", "NestJS"]
+    currentFocus: ["React", "TypeScript"]
 };
 
 ```
