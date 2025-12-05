@@ -13,13 +13,20 @@ const aleksandra = {
     currentLocation: ["Stockport, UK"],
     role: ["Software Engineer"],
     languages: ["English", "Polish", "Spanish"],
-    programmingLanguages: ["Javascript", "Python"],
     technicalSkills: {
-        frontEnd: ["HTML5", "CSS3", "JavaScript", "React", "Next.js", "jQuery", "Bootstrap + React Bootstrap"],
-        backEnd: ["Node.js", "REST APIs", "Python", "Django", "Django REST"],
+        frontEnd: {
+          core: ["HTML5", "CSS3", "JavaScript", "TypeScript"],
+          frameworks: ["React", "Next.js"],
+          uiLibraries: ["Bootstrap", "React Bootstrap", "Material UI", "jQuery"]
+        },
+        backEnd: {
+          frameworks: ["Node.js", "Express", "Django", "Django REST Framework"],
+          apis: ["REST APIs"],
+          languages: ["Python"]
+        },
         databases: ["PostgreSQL"],
-        tools: ["Git", "GitHub", "Heroku", "VSCode", "Jira", "and more..."]
-    },
+        tools: ["Git", "GitHub", "VSCode", "Heroku", "Auth0", "Supabase", "Jira", "and more..."]
+        },
     currentFocus: ["React", "TypeScript"]
 };
 
