@@ -16,19 +16,19 @@ const aleksandra = {
     languages: ["English", "Polish", "Spanish"],
     technicalSkills: {
 	    languages: ["JavaScript (ES6+)", "TypeScript", "Python", "HTML5", "CSS3"],
-    frontend: {
-	    frameworks: ["React", "Next.js"],
-	    styling: ["CSS", "Material UI", "Bootstrap"],
-      stateManagement: ["Redux"],
-    },
-    backend: {
-      runtime: ["Node.js"],
-      frameworks: ["NestJS"],
-      apiDesign: ["API Design (RESTful)"]
-    },
-    databases: ["PostgreSQL"],
-    tools: ["Git", "GitHub", "VS Code", "Jira"],
-    platformsAndServices: ["Auth0", "Supabase"]
+	    frontend: {
+		    frameworks: ["React", "Next.js"],
+		    styling: ["CSS", "Material UI", "Bootstrap"],
+	      	stateManagement: ["Redux"],
+	    },
+	    backend: {
+	      runtime: ["Node.js"],
+	      frameworks: ["NestJS"],
+	      apiDesign: ["API Design (RESTful)"]
+	    },
+	    databases: ["PostgreSQL"],
+	    tools: ["Git", "GitHub", "VS Code", "Jira"],
+	    platformsAndServices: ["Auth0", "Supabase"]
     },
     currentFocus: ["React", "UI/UX (Figma)"]
 };
