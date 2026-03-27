@@ -23,7 +23,7 @@ const aleksandra = {
     },
     backend: {
       runtime: ["Node.js"],
-      frameworks: ["Express"],
+      frameworks: ["NestJS"],
       apiDesign: ["API Design (RESTful)"]
     },
     databases: ["PostgreSQL"],
