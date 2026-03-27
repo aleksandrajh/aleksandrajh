@@ -9,25 +9,28 @@ Hello! I'm Aleksandra👋
 <img align="left" src="assets/images/woman-handup.svg" width="120">
 
 ```javascript
+
 const aleksandra = {
-    currentLocation: ["Stockport, UK"],
-    role: ["Software Engineer"],
+    currentLocation: "Stockport, UK",
+    role: "Software Engineer",
     languages: ["English", "Polish", "Spanish"],
     technicalSkills: {
-        frontEnd: {
-          core: ["HTML5", "CSS3", "JavaScript", "TypeScript"],
-          frameworks: ["React", "Next.js"],
-          uiLibraries: ["Bootstrap", "React Bootstrap", "Material UI", "jQuery"]
-        },
-        backEnd: {
-          frameworks: ["Node.js", "Express", "Django", "Django REST Framework"],
-          apis: ["REST APIs"],
-          languages: ["Python"]
-        },
-        databases: ["PostgreSQL"],
-        tools: ["Git", "GitHub", "VSCode", "Heroku", "Auth0", "Supabase", "Jira", "and more..."]
-        },
-    currentFocus: ["React", "TypeScript"]
+	    languages: ["JavaScript (ES6+)", "TypeScript", "Python", "HTML5", "CSS3"],
+    frontend: {
+	    frameworks: ["React", "Next.js"],
+	    styling: ["CSS", "Material UI", "Bootstrap"],
+      stateManagement: ["Redux"],
+    },
+    backend: {
+      runtime: ["Node.js"],
+      frameworks: ["Express"],
+      apiDesign: ["API Design (RESTful)"]
+    },
+    databases: ["PostgreSQL"],
+    tools: ["Git", "GitHub", "VS Code", "Jira"],
+    platformsAndServices: ["Auth0", "Supabase"]
+    },
+    currentFocus: ["React", "UI/UX (Figma)"]
 };
 
 ```
